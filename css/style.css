@@ -107,9 +107,10 @@ nav {
   }
   
   #page1 {
-    height: 650px;
+    height: 750px;
     background-color: #ffffff;
-    padding: 5% 0;
+    padding: 12% 0;
+    padding-bottom: 5%;
   }
   
   .picture img {
@@ -155,7 +156,7 @@ nav {
   }
   #page2 {
     background-color: #ffffff;
-    padding: 5% 0;
+    padding: 12% 0;
   }
   
   #picture2 {
@@ -234,7 +235,7 @@ nav {
     }
   }
   #page3 {
-    height: 650px;
+    height: 750px;
     background-color: #ffffff;
     padding: 5% 0;
   }
@@ -385,9 +386,10 @@ nav {
     }
   }
   #page4 {
-    height: 650px;
+    height: 750px;
     background-color: ffff;
     padding: 5% 0;
+    padding-bottom: 0px;
   }
   
   .experience h1 {
@@ -514,9 +516,9 @@ nav {
   }
   
   #page5 {
-    height: 850px;
+    height: 750px;
     background-color: #ffffff;
-    padding: 5% 0;
+    padding-top:  0px;
   }
   
   .contact-left {
