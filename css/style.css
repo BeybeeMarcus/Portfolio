@@ -21,6 +21,12 @@ nav {
     border-radius: 50px;
     font-family: "Poppins";
   }
+
+  .navbar-brand:hover {
+    color: #57ce57;
+    background-color: #ffffff;
+  }
+
   .r navBarLT{
     font-weight: 30px;
   }
